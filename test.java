@@ -1,5 +1,6 @@
 public class test {
 	public static void main(String[] args){
-		System.out.println("Hello World");
+	int n = 35;
+	System.out.println(n > 15 && n <= 30);
 	}
 }
