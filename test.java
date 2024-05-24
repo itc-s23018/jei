@@ -1,6 +1,9 @@
 public class test {
 	public static void main(String[] args){
-	int n = 35;
-	System.out.println(n > 15 && n <= 30);
+
+			int x, y = 25;
+
+			x = y /= 4 + 3;
+			System.out.println(x + " " + y);
 	}
 }
