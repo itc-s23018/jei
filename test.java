@@ -1,9 +1,8 @@
 public class test {
 	public static void main(String[] args){
-
-			int x, y = 25;
-
-			x = y /= 4 + 3;
-			System.out.println(x + " " + y);
+			int i = 0;
+			while (i <= 6){
+					System.out.println(i);
+        }
 	}
 }
