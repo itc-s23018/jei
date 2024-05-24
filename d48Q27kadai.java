@@ -6,7 +6,7 @@ class d48Q27kadai {
 				int i = 0;
 				while (i <= 6) {
 						System.out.println(i);
-						i++ ;
+						i++;
 				}
 		}
 }
