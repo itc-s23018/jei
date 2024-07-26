@@ -2,7 +2,7 @@ public class d51Q5kadai {
 	public static void main(String[] args) {
 		double[] level = {0.0, 24.0, 57.0, Double.MAX_VALUE};
 		double[]  unit = {0.0, 2.0, 3.0, 5.0};
-		int[] rate = {0, 20, 18, 15};
+		int[] rate = {0, 20, 18, 15}; //従量料金が各1円UP
 		if(args.length != 1) {
 			System.out.println("引数の個数が不正");
 			return;
