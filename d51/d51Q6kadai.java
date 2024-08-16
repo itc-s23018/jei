@@ -1,3 +1,5 @@
+//s23018
+
 public class d51Q6kadai {
 	public static void main(String[] args) {
 		Item[] li = { new Item("AA", "魚類"), new Item("BB", "肉類") };

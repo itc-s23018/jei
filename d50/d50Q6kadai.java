@@ -1,3 +1,5 @@
+//s23018 
+
 class d50Q6kadai {
     public static void main(String[] args) {
         int min = Integer.parseInt(args[0]);
